@@ -73,7 +73,7 @@ def decrypt_caesar(data, shift):
 To run the decryption script:
 
 ```
-python decrypt_caesar.py your_name
+python3 decrypt_caesar.py your_name
 ```
 
 Replace `your_name` with the actual name of the encrypted file if different.
@@ -90,4 +90,3 @@ Through this assignment, I learned:
 
 ---
 
-*Note: This README should be updated with the actual values for shift (`X`) and file type once the decryption is completed successfully.*
